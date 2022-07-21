@@ -1,2 +1,1 @@
-# testweb
-testweb
+print('Hello world')
